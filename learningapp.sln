@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learningapp", "learningapp\learningapp.csproj", "{5B661F06-2D72-4CB9-AE2E-497AD0D2CFEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B661F06-2D72-4CB9-AE2E-497AD0D2CFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B661F06-2D72-4CB9-AE2E-497AD0D2CFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B661F06-2D72-4CB9-AE2E-497AD0D2CFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B661F06-2D72-4CB9-AE2E-497AD0D2CFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
