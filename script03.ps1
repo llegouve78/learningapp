@@ -1,7 +1,7 @@
 Connect-AzAccount
 
 $Location="North Europe"
-$ResourceGroupName="app_grp"
+$ResourceGroupName="llgdevops"
 $AppServicePlanName="learningplan7000"
 
 New-AzAppServicePlan -ResourceGroupName $ResourceGroupName -Name $AppServicePlanName -Location $Location -Tier Basic
